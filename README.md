@@ -5,3 +5,4 @@
 4. Simple_Autoencoder.ipynb - A simple autoencoder with TensorFlow dense layers
 5. Convolutional_Autoencoder.ipynb - A convolutional autoencoder using upsampling with TensorFlow 
 6. Tranfer_Learning.ipynb - Transfer learning image classifier with TensorFlow and pretrained VGG model.
+7. Sentiment_RNN.ipynb - An RNN for sentiment analysis of movie reviews.
