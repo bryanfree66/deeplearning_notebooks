@@ -6,3 +6,4 @@
 5. Convolutional_Autoencoder.ipynb - A convolutional autoencoder using upsampling with TensorFlow 
 6. Tranfer_Learning.ipynb - Transfer learning image classifier with TensorFlow and pretrained VGG model.
 7. Sentiment_RNN.ipynb - An RNN for sentiment analysis of movie reviews.
+8. Intro_to_GANs_Exercises.ipynb . - A generative adverserial network to generate MNIST images
